@@ -1,0 +1,95 @@
+p{
+  font-family: "Montserrat";
+}
+
+h5{
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
+.info{
+  background-color: silver;
+}
+
+.mail{
+  padding-top: 16px;
+}
+
+.num{
+padding-right: 50px;
+padding-top: 16px;
+}
+
+.fb{
+  padding-right: 16px;
+  padding-top: 16px;
+}
+
+.hr-fa{
+  margin-left: 50px
+}
+
+.hr{
+  padding-top: 16px;
+}
+
+.center{
+  text-align: center;
+}
+
+.coroimg{
+  text-align: center;
+}
+
+.txt{
+
+}
+
+.voir-plus{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* contact */
+
+.map-container-6{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-6 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.page-footer{
+background-color: #33b5e5;
+color: white;
+}
+
+.navbar{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.form-h{
+  background-color: #33b5e5;
+  color: white;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#realisation{
+background-color: white;
+}
+
+#carsel{
+  background-color: #1b262c;
+}
+
+#contact{
+  background-color: #3282b8;
+}
